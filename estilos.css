@@ -1,0 +1,13 @@
+.body {
+    font-family: sans-serif;
+}
+
+.logo {   
+    height: 50px;
+    display: flex;
+    
+    
+}
+.botones {
+    display: flex;
+}
