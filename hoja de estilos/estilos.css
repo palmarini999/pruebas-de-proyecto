@@ -15,3 +15,21 @@
 .seccion {
     padding: 30px;
 }
+.iconos {
+    font-size: 27px;
+}
+.container-perfil  {
+  display: inline-block;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+
+}
+.container-perfil img {
+    height: 300px;
+    width: auto;
+    height: 50%;
+    margin-left: +50px;
+}
