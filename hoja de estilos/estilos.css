@@ -17,19 +17,17 @@
 }
 .iconos {
     font-size: 27px;
+    margin-left: 99%;
 }
-.container-perfil  {
-  display: inline-block;
-  position: relative;
-  width: 200px;
+.iconos button {
+    margin-left: 99%;
+}
+.container-perfil img {
+ 
   height: 200px;
   overflow: hidden;
   border-radius: 50%;
+  margin-left: 15px;
 
 }
-.container-perfil img {
-    height: 300px;
-    width: auto;
-    height: 50%;
-    margin-left: +50px;
-}
+
